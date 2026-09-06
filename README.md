@@ -1,4 +1,4 @@
-# Apollo session hotkey
+# Close Apollo session hotkey
 
 Press **Ctrl+Alt+Shift+F12** on the host keyboard to close the active Apollo streaming session. This is useful when you forget to end a Moonlight session and the host displays remain disabled.
 
